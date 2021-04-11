@@ -7,7 +7,7 @@ chrome.webRequest.onBeforeRequest.addListener(
     ["*://*.doubleclick.net/*",
     "*://*.googleadservices.com/*",
     "*://*.googlesyndication.com/*",
-    "*://*.moat.com/*"
+    "*://*.moat.com/*",
     "*://*.adskeeper.com/*"]
   },
   ["blocking"]
